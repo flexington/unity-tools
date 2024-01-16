@@ -1,0 +1,18 @@
+{
+    "name": "uk.flexington.tools",
+    "displayName": "Collection of tools for Unity by Flexington",
+    "version": "1.0.0-alpha.1",
+    "unity": "2022.3",
+    "description": "This package provides a collection of reusable Tools for Unity.",
+    "author": {
+        "name": "Sandro Paetzold",
+        "email": "unity@flexington.uk"
+    },
+    "licenseUrl": "https://github.com/flexington/unity-tools/blob/f572f2fb8f969e9b4e3eedc0651296b82e2e844b/LICENSE",
+    "changelogUrl": "",
+    "dependencies": {},
+    "testables": {},
+    "keywords": [
+        "Tools"
+    ]
+}
