@@ -1,7 +1,9 @@
 {
     "name": "uk.flexington.tools.editor",
-    "rootNamespace": "flexington.tools",
-    "references": [],
+    "rootNamespace": "flexington.Tools",
+    "references": [
+        "uk.flexington.tools"
+    ],
     "includePlatforms": [
         "Editor"
     ],
