@@ -1,4 +1,5 @@
 using UnityEngine;
+
 namespace flexington.Tools
 {
     public class SingletonComponent<T> : MonoBehaviour where T : MonoBehaviour

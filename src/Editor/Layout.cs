@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace flexington.Utilities.Editor.GUI.Layout
+namespace flexington.Tools
 {
     public class VerticalGroup : IDisposable
     {

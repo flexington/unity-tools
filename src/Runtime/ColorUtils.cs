@@ -31,9 +31,9 @@ namespace flexington.Tools
         public static Color GetRandomColor()
         {
             return new Color(
-                Random.Range(0, 255) / 255f,
-                Random.Range(0, 255) / 255f,
-                Random.Range(0, 255) / 255f
+                UnityEngine.Random.Range(0, 255) / 255f,
+                UnityEngine.Random.Range(0, 255) / 255f,
+                UnityEngine.Random.Range(0, 255) / 255f
             );
         }
     }
